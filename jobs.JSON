@@ -1,0 +1,120 @@
+[
+    {
+      "id": 1,
+      "logo": "google_logo.png",
+      "company_name": "Google",
+      "remote_or_onsite": "Remote",
+      "location": "Mountain View, CA",
+      "job_title": "Software Engineer",
+      "job_type": "Full-time",
+      "salary": "$120,000 - $150,000 per year",
+      "job_description": "Join our innovative team to develop cutting-edge software solutions.",
+      "job_responsibility": "Design, develop, and maintain software applications.",
+      "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+      "experiences": "2+ years of experience in software development.",
+      "contract_information": {
+        "phone": "+1 (123) 456-7890",
+        "email": "hr@google.com",
+        "address": "1600 Amphitheatre Parkway, Mountain View, CA"
+      }
+    },
+    {
+      "id": 2,
+      "logo": "tesla_logo.png",
+      "company_name": "Tesla",
+      "remote_or_onsite": "Onsite",
+      "location": "Palo Alto, CA",
+      "job_title": "Electrical Engineer",
+      "job_type": "Contract",
+      "salary": "$90,000 - $110,000 per year",
+      "job_description": "Join our dynamic team to work on cutting-edge electrical systems.",
+      "job_responsibility": "Design and implement electrical systems for our innovative products.",
+      "educational_requirements": "Bachelor's degree in Electrical Engineering or related field.",
+      "experiences": "3+ years of experience in electrical engineering.",
+      "contract_information": {
+        "phone": "+1 (234) 567-8901",
+        "email": "hr@tesla.com",
+        "address": "3500 Deer Creek Rd, Palo Alto, CA"
+      }
+    },
+    {
+      "id": 3,
+      "logo": "netflix_logo.png",
+      "company_name": "Netflix",
+      "remote_or_onsite": "Remote",
+      "location": "Los Gatos, CA",
+      "job_title": "Data Scientist",
+      "job_type": "Full-time",
+      "salary": "$130,000 - $160,000 per year",
+      "job_description": "Join our data science team to analyze and interpret large datasets.",
+      "job_responsibility": "Develop algorithms and models to optimize content recommendations.",
+      "educational_requirements": "Master's degree in Data Science, Statistics, or related field.",
+      "experiences": "2+ years of experience in data analysis and machine learning.",
+      "contract_information": {
+        "phone": "+1 (345) 678-9012",
+        "email": "hr@netflix.com",
+        "address": "100 Winchester Cir, Los Gatos, CA"
+      }
+    },
+    {
+      "id": 4,
+      "logo": "apple_logo.png",
+      "company_name": "Apple",
+      "remote_or_onsite": "Remote",
+      "location": "Cupertino, CA",
+      "job_title": "UX Designer",
+      "job_type": "Full-time",
+      "salary": "$110,000 - $140,000 per year",
+      "job_description": "Join our design team to create exceptional user experiences.",
+      "job_responsibility": "Collaborate with cross-functional teams to design intuitive user interfaces.",
+      "educational_requirements": "Bachelor's degree in Design, HCI, or related field.",
+      "experiences": "3+ years of experience in UX/UI design.",
+      "contract_information": {
+        "phone": "+1 (456) 789-0123",
+        "email": "hr@apple.com",
+        "address": "1 Apple Park Way, Cupertino, CA"
+      }
+    },
+    {
+      "id": 5,
+      "logo": "amazon_logo.png",
+      "company_name": "Amazon",
+      "remote_or_onsite": "Onsite",
+      "location": "Seattle, WA",
+      "job_title": "Supply Chain Manager",
+      "job_type": "Full-time",
+      "salary": "$120,000 - $150,000 per year",
+      "job_description": "Join our operations team to optimize our supply chain processes.",
+      "job_responsibility": "Manage inventory levels, logistics, and distribution networks.",
+      "educational_requirements": "Bachelor's degree in Business Administration, Logistics, or related field.",
+      "experiences": "5+ years of experience in supply chain management.",
+      "contract_information": {
+        "phone": "+1 (567) 890-1234",
+        "email": "hr@amazon.com",
+        "address": "410 Terry Ave N, Seattle, WA"
+      }
+    
+    },
+    {
+      "id": 6,
+      "logo": "microsoft_logo.png",
+      "company_name": "Microsoft",
+      "remote_or_onsite": "Remote",
+      "location": "Redmond, WA",
+      "job_title": "Cloud Solutions Architect",
+      "job_type": "Full-time",
+      "salary": "$140,000 - $170,000 per year",
+      "job_description": "Join our cloud solutions team to architect and implement scalable cloud solutions.",
+      "job_responsibility": "Design and deploy cloud-based solutions for enterprise customers.",
+      "educational_requirements": "Bachelor's degree in Computer Science or related field.",
+      "experiences": "5+ years of experience in cloud architecture and deployment.",
+      "contract_information": {
+        "phone": "+1 (678) 901-2345",
+        "email": "hr@microsoft.com",
+        "address": "1 Microsoft Way, Redmond, WA"
+      }
+    }
+
+    
+  ]
+  
